@@ -1,0 +1,2 @@
+# string-metotlar
+string metotları
